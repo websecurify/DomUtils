@@ -1,5 +1,5 @@
 {
-  "name": "domutils",
+  "name": "domutils-browserify-ws",
   "version": "1.3.0",
   "description": "utilities for working with htmlparser2's dom",
   "main": "index.js",
